@@ -17,7 +17,7 @@
   left:0px;
   top:152px;
   width:905px;
-  height:133px;
+  height:163px;
 }
 #u1_img {
   position:absolute;
@@ -208,7 +208,70 @@
   width:96px;
   word-wrap:break-word;
 }
-#u19_div {
+#u19_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:100px;
+  height:30px;
+}
+#u19 {
+  position:absolute;
+  left:0px;
+  top:128px;
+  width:100px;
+  height:30px;
+}
+#u20 {
+  position:absolute;
+  left:2px;
+  top:7px;
+  width:96px;
+  word-wrap:break-word;
+}
+#u21_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:700px;
+  height:30px;
+}
+#u21 {
+  position:absolute;
+  left:100px;
+  top:128px;
+  width:700px;
+  height:30px;
+}
+#u22 {
+  position:absolute;
+  left:2px;
+  top:7px;
+  width:696px;
+  word-wrap:break-word;
+}
+#u23_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:100px;
+  height:30px;
+}
+#u23 {
+  position:absolute;
+  left:800px;
+  top:128px;
+  width:100px;
+  height:30px;
+}
+#u24 {
+  position:absolute;
+  left:2px;
+  top:7px;
+  width:96px;
+  word-wrap:break-word;
+}
+#u25_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -225,7 +288,7 @@
   font-weight:700;
   font-style:normal;
 }
-#u19 {
+#u25 {
   position:absolute;
   left:0px;
   top:89px;
@@ -235,14 +298,14 @@
   font-weight:700;
   font-style:normal;
 }
-#u20 {
+#u26 {
   position:absolute;
   left:0px;
   top:0px;
   width:193px;
   white-space:nowrap;
 }
-#u21_div {
+#u27_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -259,7 +322,7 @@
   font-weight:700;
   font-style:normal;
 }
-#u21 {
+#u27 {
   position:absolute;
   left:0px;
   top:0px;
@@ -269,28 +332,28 @@
   font-weight:700;
   font-style:normal;
 }
-#u22 {
+#u28 {
   position:absolute;
   left:0px;
   top:0px;
   width:193px;
   white-space:nowrap;
 }
-#u23_img {
+#u29_img {
   position:absolute;
   left:0px;
   top:0px;
   width:858px;
   height:16px;
 }
-#u23 {
+#u29 {
   position:absolute;
   left:0px;
   top:54px;
   width:858px;
   height:16px;
 }
-#u24 {
+#u30 {
   position:absolute;
   left:0px;
   top:0px;
